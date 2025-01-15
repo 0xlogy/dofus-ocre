@@ -1,0 +1,330 @@
+Zone,Monstre,Niveau
+Aerdala,Fangshu,8
+Aerdala,Ino-Naru,9
+Aerdala,Kurookin,11
+Aerdala,Lichangoro,15
+Akwadala,Akakwa,7
+Akwadala,Sarkapwane,9
+Akwadala,Betto,10
+Akwadala,Kokom,12
+Amakna - Campagne,Moskito,1
+Amakna - Campagne,Arakne,1
+Amakna - Campagne,Champ Champ,2
+Amakna - Château (Souterrains),Ramane d'Egoutant,8
+Amakna - Château (Souterrains),Rat d'Egoutant,9
+Arche d'Otomai,Sparo,10
+Arche d'Otomai,Barbroussa,11
+Arche d'Otomai,Le Flib,11
+Astrub - Calanques,Etoile de la Mer d'Asse,4
+Astrub - Calanques,Pichon Blanc,4
+Astrub - Calanques,Pichon Bleu,4
+Astrub - Calanques,Pichon Orange,4
+Astrub - Calanques,Pichon Vert,4
+Astrub - Cimetière,Gargrouille,5
+Astrub - Cimetière,Le Ouassingue,8
+Astrub - Cimetière,La Ouassingue,8
+Astrub - Égouts,Arakne des Égouts,2
+Astrub - Égouts,Milirat Strubien,3
+Astrub - Égouts,Scélérat Strubien,6
+Bambusaie de Damadrya,Bulbiflore,4
+Baie de Cania / Village des Dopeuls,Amlub,7
+Baie de Cania / Village des Dopeuls,Codem,7
+Baie de Cania / Village des Dopeuls,Kirevam,7
+Baie de Cania / Village des Dopeuls,Let Emoliug,7
+Baie de Cania / Village des Dopeuls,Susej,8
+Bois de Litneg,Chafer Invisible,5
+Bois de Litneg,Chafer Fantassin,6
+Bois de Litneg,Chafer,6
+Bois de Litneg,Chafer Archer,8
+Bois de Litneg,Chafer Lancier,8
+Bois de Litneg,Troollaraj,14
+Bonta/Brâkmar - Égouts,Ramane d'Egoutant,8
+Bonta/Brâkmar - Égouts,Rat d'Egoutant,9
+Bonta/Brâkmar - Égouts,Rat d'Hyoactif,10
+Bord de la Forêt Maléfique,Moskito,1
+Bord de la Forêt Maléfique,Larve Bleue,1
+Bord de la Forêt Maléfique,Larve Verte,2
+Bord de la Forêt Maléfique,Larve Orange,2
+Bord de la Forêt Maléfique,Sanglier,3
+Bord de la Forêt Maléfique,Prespic,3
+Bordure de Brâkmar,Croc Gland Enragé,4
+Bordure de Brâkmar,Fantôme Apero,11
+Bordure de Brâkmar,Fantôme aux Plates,11
+Bordure de Brâkmar,Fantôme Hicide,11
+Bordure de Brâkmar,Fantôme Égérie,11
+Canyon Sauvage,DoK Alako,8
+Canyon Sauvage,Koalak Coco,10
+Canyon Sauvage,Koalak Griotte,10
+Canyon Sauvage,Koalak Indigo,10
+Canyon Sauvage,Koalak Reinette,10
+Canyon Sauvage,Mama Koalak,13
+Canyon Sauvage,Drakoalak,14
+Caverne des Fungus,Champodonte,15
+Caverne des Fungus,Champbis,15
+Caverne des Fungus,Champ à Gnons,15
+Caverne des Fungus,Champmane,15
+Champs de Cania,Serpentin,11
+Champs de Cania,Larve Champêtre,11
+Champs de Cania,Bourdard,12
+Champs des Ingalsse,Tofu,1
+Chemin du Crâne,Boomba,6
+Chemin du Crâne,Canondorf,10
+Chemin du Crâne,Nakunbra,10
+Cimetière d'Amakna,Kwoan,2
+Cimetière d'Amakna,Rib,6
+Cimetière d'Amakna,Chafer Fantassin,6
+Cimetière d'Amakna,Chafer Draugr,9
+Cimetière de Grobe,Tsukinochi,15
+Cimetière de Grobe,Tambouraï,15
+Cimetière de Grobe,Onabu-Geisha,15
+Cimetière de Grobe,Jianshi-Nobi,15
+Cimetière des Héros/Torturés,Chafer Archer,8
+Cimetière des Héros/Torturés,Chafer Lancier,8
+Cimetière des Héros/Torturés,Chafer d'élite,8
+Cimetière des Héros/Torturés,Chafer Draugr,9
+Cimetière Primitif,Fossoyeur koalak,12
+Cimetière Primitif,Chevaucheur koalak,12
+Cimetière Primitif,Momie Koalak,13
+Cimetière Primitif,Maître koalak,14
+Clairière de Brouce Boulgoure,Champa Vert,3
+Clairière de Brouce Boulgoure,Champa Bleu,5
+Clairière de Brouce Boulgoure,Champa Marron,5
+Clairière de Brouce Boulgoure,Champa Rouge,5
+Coin des Bouftous,Boufton Blanc,1
+Coin des Bouftous,Boufton Noir,1
+Coin des Bouftous,Champ Champ,2
+Coin des Bouftous,Bouftou,2
+Coin des Bouftous,Chef de Guerre Bouftou,3
+Coin des Boos,Boo,3
+Côte d'Asse,Larve Bleue,1
+Côte d'Asse,Larve Verte,2
+Côte d'Asse,Larve Orange,2
+Cryptes,Souris Grise,1
+Cryptes,Tofu Maléfique,1
+Cryptes,Vampire,3
+Cryptes,Maître Vampire,4
+Cryptes,Noeul,4
+Dents de Pierre,Panthégros,12
+Dents de Pierre,Orfélin,12
+Dents de Pierre,Alhyène,12
+Dents de Pierre,Kaniblou,14
+Désolation de Sidimote,Kolérat,2
+Désolation de Sidimote,Crowneille,3
+Désolation de Sidimote,Croc Gland,4
+Désolation de Sidimote,Scorbute,6
+Domaine des Fungus,Champaknyde,15
+Domaine des Fungus,Tromperelle,15
+Domaine des Fungus,Champ à Gnons,15
+Domaine des Fungus,Champmane,15
+Donjon Ensablé,Pichon Kloune,6
+Feudala,Crachefoux,9
+Feudala,Rouquette,14
+Feudala,Boumbardier,14
+Feudala,Pétartifoux,15
+Feuillage de l'Arbre Hakam,Poolay,14
+Feuillage de l'Arbre Hakam,Kaskargo,15
+Feuillage de l'Arbre Hakam,Bitouf Aérien,15
+Forêt d'Amakna/Astrub/Milifutaie,Sanglier,3
+Forêt d'Amakna/Astrub/Milifutaie,Prespic,3
+Forêt d'Amakna/Astrub/Milifutaie,Milimulou,4
+Forêt de Kaliptus,DoK Alako,8
+Forêt de Kaliptus,Koalak Immature,8
+Forêt de Kaliptus,Warko marron,12
+Forêt de Kaliptus,Koalak forestier,12
+Forêt des Masques,Kanniboul Archer,9
+Forêt des Masques,Kanniboul Jav,9
+Forêt des Masques,Kanniboul Sarbak,9
+Forêt des Masques,Kanniboul Thierry,9
+Forêt Sombre,Abraknyde Vénérable,8
+Forêt Sombre,Abraknyde sombre,12
+Forêt Sombre,Abrakne sombre,12
+Gelaxième dimension,Gelée Bleue,2
+Gelaxième dimension,Gelée Menthe,2
+Hauts des Hurlements,Mulou,11
+Île de la Cawotte,Black Tiwabbit,2
+Île de la Cawotte,Tiwabbit,2
+Île de la Cawotte,Wabbit,3
+Île de la Cawotte,Black Wabbit,5
+Île du Minotoror,Minoskito,4
+Île du Minotoror,Mandrine,5
+Île du Minotoror,Kraméléhon,5
+Île du Minotoror,Gamino,8
+Île du Minotoror,Serpiplume,10
+Îlot de la Couronne,Wabbit,3
+Îlot de la Couronne,Grand Pa Wabbit - Wo Wabbit,7
+Îlot des Tombeaux,Wabbit Squelette,5
+Jungle Interdite,Trukikol,3
+Jungle Interdite,Fourbasse,4
+Jungle Interdite,Gloutovore,12
+Jungle Obscure,Chiendent,11
+Jungle Obscure,Nerbe,11
+Jungle Obscure,Brouture,13
+Jungle Obscure,Bitouf sombre,13
+Jungle Obscure,Floribonde,13
+Jungle Obscure,Fécorce,13
+Jungle Obscure,Abrakleur sombre,14
+Laboratoire de Brumen Tinctorias,Macien,9
+Labyrinthe du Dragon Cochon,Cochon de Farle,6
+Labyrinthe du Dragon Cochon,Don Duss Ang,10
+Labyrinthe du Dragon Cochon,Don Dorgan,11
+Labyrinthe du Minotoror,Scaratos,6
+Labyrinthe du Minotoror,Gamino,8
+Labyrinthe du Minotoror,Serpiplume,10
+Lac de Cania,Biblop Coco,3
+Lac de Cania,Biblop Griotte,3
+Lac de Cania,Biblop Indigo,3
+Lac de Cania,Biblop Reinette,3
+Lac de Cania,Blop Coco,6
+Lac de Cania,Blop Griotte,6
+Lac de Cania,Blop Indigo,6
+Lac de Cania,Blop Reinette,6
+Lacs Enchantés,DoK Alako,8
+Lacs Enchantés,Koalak Immature,8
+Lacs Enchantés,Piralak,12
+Lacs Enchantés,Pékeualak,12
+Marécages,Boo,3
+Marécages,Crocodaille,6
+Marécages,Chef Crocodaile,11
+Massif de Cania,Malle Outillée,14
+Massif de Cania,Robot Fléau,14
+Massif de Cania,Robionicle,14
+Mine des Dopeuls,Aboub,7
+Mine des Dopeuls,Gink,7
+Mine des Dopeuls,Negbib,7
+Mine des Dopeuls,Nipul,7
+Mine des Dopeuls,Osurc,8
+Montagne des Craqueleurs,Craqueboule,5
+Montagne des Craqueleurs,Craqueleur,5
+Montagne des Craqueleurs,Kwak de Vent,9
+Montagne des Craqueleurs,Kwak de Flamme,9
+Montagne des Craqueleurs,Kwak de Glace,9
+Montagne des Craqueleurs,Kwak de Terre,9
+Montagne basse des Craqueleurs,Gobet,2
+Montagne basse des Craqueleurs,Gob-trotteur,3
+Montagne basse des Craqueleurs,Bwork Mage,4
+Montagne basse des Craqueleurs,Bwork Archer,5
+Montagne basse des Craqueleurs,Craqueboule,5
+Montagne basse des Craqueleurs,Craqueleur,5
+Montagne basse des Craqueleurs,Bwork,5
+Monts des Tombeaux,Madura,15
+Monts des Tombeaux,Bakazako,15
+Monts des Tombeaux,Kaonashi,16
+Monts des Tombeaux,Tsume-Bozu,16
+Orée de la Forêt des Abraknydes,Abraknyde,5
+Orée de la Forêt des Abraknydes,Tronknyde,6
+Orée de la Forêt des Abraknydes,Abrakne,6
+Orée de la Forêt des Abraknydes,Arakne Majeure,7
+Passage vers Brâkmar,Bandit Manchot,2
+Passage vers Brâkmar,Boulanger Sombre,2
+Passage vers Brâkmar,Mineur Sombre,5
+Passage vers Brâkmar,Forgeron Sombre,7
+Pénates des Corbac,Corbac,4
+Péninsule des Gelées,Gelée Bleue,2
+Péninsule des Gelées,Gelée Menthe,2
+Péninsule des Gelées,Gelée Fraise,5
+Pics de Cania,Bizarbwork,13
+Pics de Cania,Médibwork,13
+Pics de Cania,Krambwork,13
+Pics de Cania,Mégabwork,13
+Plage de Corail,Crustorail Kouraçao,7
+Plage de Corail,Crustorail Malibout,7
+Plage de Corail,Crustorail Morito,7
+Plage de Corail,Crustorail Passaoh,7
+Plage de Corail,Palmifleur Malibout,8
+Plage de Corail,Palmifleur Morito,8
+Plage de Corail,Palmifleur Passaoh,8
+Plage de Corail,Palmifleur Kouraçao,9
+Plage de Corail,Corailleur,10
+Plage de la Tortue,NodKoko,3
+Plage de la Tortue,Tikokoko,3
+Plage de la Tortue,Tortue Jaune,3
+Plage de la Tortue,Tortue Bleue,4
+Plage de la Tortue,Tortue Rouge,4
+Plage de la Tortue,Tortue Verte,4
+Plage de la Tortue,Kokoko,8
+Plaine des Porkass,Cochon de Lait,3
+Plaine des Porkass,Berger Porkass,3
+Plaine des Porkass,Cavalier Porkass,7
+Plaine des Porkass,Sanglier Des Plaines,8
+Plaine des Scarafeuilles,Flammèche Air,1
+Plaine des Scarafeuilles,Flammèche Eau,1
+Plaine des Scarafeuilles,Flammèche Feu,1
+Plaine des Scarafeuilles,Flammèche Terre,1
+Plaine des Scarafeuilles,Scarafeuille Blanc,6
+Plaine des Scarafeuilles,Scarafeuille Bleu,6
+Plaine des Scarafeuilles,Scarafeuille Rouge,6
+Plaine des Scarafeuilles,Scarafeuille Vert,6
+Plaines Herbeuses,Craqueboule Poli,9
+Plaines Herbeuses,Bitouf des plaines,11
+Plaines Herbeuses,Mufafah,11
+Plaines Herbeuses,Kido,11
+Plaines Herbeuses,Kilibriss,11
+Plaines Rocheuses,Craqueleur des plaines,8
+Plantala,Floristile,4
+Plantala,Bambouto,4
+Plantala,Bulbuisson,7
+Plantala,Grenufar,13
+Port de Madrestam,Larve Bleue,1
+Port de Madrestam,Larve Verte,2
+Port de Madrestam,Larve Orange,2
+Presqu'île des Dragoeufs,DragOeuf Calcaire,10
+Presqu'île des Dragoeufs,DragOeuf Argile,10
+Presqu'île des Dragoeufs,DragOeuf Charbon,10
+Presqu'île des Dragoeufs,DragOeuf Ardoise,10
+Rivages de Sufokia,Crabe,1
+Rivages de Sufokia,Raul Mops,10
+Rivages de Sufokia,Moumoule,10
+Rivière Kawaii,Larve Bleue,1
+Rivière Kawaii,Larve Verte,2
+Rivière Kawaii,Larve Orange,2
+Rives Iridescentes,Pissenlit Diabolique,2
+Rives Iridescentes,Rose Démoniaque,2
+Rives Iridescentes,Rose Obscure,5
+Routes Rocailleuses,Maître Bolet,9
+Routes Rocailleuses,Vétauran,9
+Routes Rocailleuses,Kanigrou,11
+Routes Rocailleuses,Foufayteur,12
+Sanctuaire des Dragoeufs,Dragacé,9
+Sanctuaire des Dragoeufs,Dragueuse,12
+Sanctuaire des Dragoeufs,Dragnarok,13
+Sanctuaire des Dragoeufs,Draguaindrop,13
+Souterrains des Dragoeufs,Dragoss Calcaire,14
+Souterrains des Dragoeufs,Dragoss Argile,14
+Souterrains des Dragoeufs,Dragoss Charbon,14
+Souterrains des Dragoeufs,Dragoss Ardoise,14
+Sufokia (Territoire),Piou Bleu,1
+Sufokia (Territoire),Piou Jaune,1
+Sufokia (Territoire),Piou Rouge,1
+Sufokia (Territoire),Piou Vert,1
+Sufokia (Territoire),Piou Violet,1
+Sufokia (Territoire),Piou Rose,1
+Tainéla,Boufton Blanc,1
+Tainéla,Boufton Noir,1
+Tainéla,Bouftou,2
+Tainéla,Chef de Guerre Bouftou,3
+Territoire des Bandits,Boulanger Sombre,2
+Territoire des Bandits,Bandit du clan des Roublards,2
+Territoire des Bandits,Mineur Sombre,5
+Territoire des Bandits,Forgeron Sombre,7
+Territoire des Dragodindes Sauvages,Dragodinde Amande Sauvage,5
+Territoire des Dragodindes Sauvages,Dragodinde Rousse Sauvage,7
+Territoire des Dragodindes Sauvages,Dragodinde dorée sauvage,12
+Territoire des Porcos,Cochon de Farle,6
+Territoire des Porcos,Porsalu,9
+Terrdala,Ishigro Pake,5
+Terrdala,Lolojiki,10
+Terrdala,Parashukouï,12
+Terrdala,Tétonuki,14
+Tourbière d'Otomai,Le Ouassingue Entourbé,8
+Tourbière d'Otomai,Bourbassingue,13
+Tourbière d'Otomai,Roissingue,15
+Tronc de l'Arbre Hakam,Meupette,12
+Tronc de l'Arbre Hakam,Poolay,14
+Tronc de l'Arbre Hakam,Kaskargo,15
+Tronc de l'Arbre Hakam,Bitouf Aérien,15
+Tronc de l'Arbre Hakam,Abrakleur Clair,15
+Village des Zoths,Disciple Zoth,13
+Village des Zoths,Gamine Zoth,13
+Village des Zoths,Guerrier Zoth,13
+Village des Zoths,Sergent Zoth,15
+Village des Zoths,Maître Zoth,15
